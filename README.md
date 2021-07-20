@@ -8,4 +8,4 @@ Semoga dapat bermanfaat di masa depan kelak aamiin.
 
 ## Notes
 Btw ini repository pertamaku, aku baru saja belajar 
-GitHub dan sekarang ingin mencoba mempraktikkan. 
+GitHub dan sekarang ingin mencoba mempraktikkannya :)
